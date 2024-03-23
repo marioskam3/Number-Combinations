@@ -1,4 +1,4 @@
-![ProjectLogo](/Project-Logo/Number_Combinations.png)
+![ProjectLogo](/Project-Logo-&-Screenshots/Number_Combinations.png)
 
 ## Overview
 
@@ -35,13 +35,13 @@ Here are some screenshots of the program in action:
 
 1. **Clone the repository to your local machine:**
   ```bash
-  git clone https://github.com/marioskam3/Number-Combinations
-```
+    git clone https://github.com/marioskam3/Number-Combinations
+  ```
 
 2. **Navigate to the project directory:**
   ```bash
-  cd "Number-Combinations"
-```
+    cd "Number-Combinations"
+  ```
 
 ## How to compile and run
 
@@ -49,19 +49,18 @@ Here are some screenshots of the program in action:
     I am using gcc
     Download gcc with:
     ```bash
-    sudo apt install gcc
-```
+      sudo apt install gcc
+    ```
 
 2. **Compile program:**
   ```bash
     gcc -o number-combinations number-combination.c
-```
+  ```
 
 3. **Run program:**
-    ```bash
+  ```bash
     ./number-combinations
-```
-
+  ```
 ## License
 
 This project is licensed under the MIT License
