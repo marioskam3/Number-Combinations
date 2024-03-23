@@ -48,9 +48,9 @@ Here are some screenshots of the program in action:
 1. **You will need a c compiler**
     I am using gcc
     Download gcc with:
-    ```bash
-      sudo apt install gcc
-    ```
+  ```bash
+    sudo apt install gcc
+  ```
 
 2. **Compile program:**
   ```bash
