@@ -1,1 +1,1 @@
-![ProjectLogo](/Project-Logo/Number-Combinations.png)
+![ProjectLogo](/Project-Logo/Number_Combinations.png)
